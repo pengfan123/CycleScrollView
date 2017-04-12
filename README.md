@@ -12,8 +12,8 @@
 5. the UI elements of CycleView is customizable.
 
 * Comment API
-1. [CycleScrollView.swift](https://github.com/pengfan123/CycleScrollView/blob/master/CycleScrollView.swift)
-2. [CycleInfoLabel.swift](https://github.com/pengfan123/CycleScrollView/blob/master/CycleInfoLabel.swift
+1. [CycleScrollView.swift](https://github.com/pengfan123/CycleScrollView/blob/master/CycleScrollView/CycleScrollView.swift)
+2. [CycleInfoLabel.swift](https://github.com/pengfan123/CycleScrollView/blob/master/CycleScrollView/CycleInfoLabel.swift)
 
 * Requirements
 1. iOS 8.0+
