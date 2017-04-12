@@ -25,3 +25,6 @@
  <br>`let cycleScrollView = CycleScrollView.init(frame: CGRect.init(x: 0, y: 100, width: self.view.bounds.size.width, height: 200), data: dataArr)`
  <br>`cycleScrollView.delegate = self`
  <br> `view.addSubview(cycleScrollView)`
+ 
+***
+ Email Address: 2898889396@qq.com, if you have some suggestions, please contact with me, and i will improve it!
