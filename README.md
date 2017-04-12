@@ -27,4 +27,4 @@
  <br> `view.addSubview(cycleScrollView)`
  
 ***
-** Email Address: 2898889396@qq.com, if you have some suggestions, please contact with me, and i will improve it!
+ Email Address: 2898889396@qq.com, if you have some suggestions, please contact with me, and i will improve it!
