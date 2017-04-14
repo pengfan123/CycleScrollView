@@ -21,6 +21,7 @@
 3. need to intergrate Kingfinsher
 
 # How to use?
+ first of all, download the zip, and unfold it, copy  CycleScrollView.swift and  CycleInfoLabel.swift to your project,and program like this:
  <br>`let dataArr = ["http://1.jpg", "http://2.jpg", "http://3.jpg"]`
  <br>`let cycleScrollView = CycleScrollView.init(frame: CGRect.init(x: 0, y: 100, width: self.view.bounds.size.width, height: 200), data: dataArr)`
  <br>`cycleScrollView.delegate = self`
